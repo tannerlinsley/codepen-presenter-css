@@ -1,0 +1,39 @@
+.room-editor {
+    padding-bottom: 0px !important;
+}
+
+.room-editor .main-header {
+    display:none;
+}
+
+.room-editor .box-html {
+    display:none;
+}
+
+.room-editor .box-html + .editor-resizer {
+    display:none;
+}
+
+.room-editor .box-css {
+    display:none;
+}
+
+.room-editor .box-css + .editor-resizer {
+    display:none;
+}
+
+.room-editor .box-js {
+    height: 100% !important;
+}
+
+.room-editor .box-js .powers {
+    display: none;
+}
+
+.room-editor footer {
+    display:none !important;
+}
+
+.room-editor .code-wrap {
+    height: 100% !important;
+}
